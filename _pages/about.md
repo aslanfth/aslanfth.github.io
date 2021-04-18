@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. Currently under construction.
+## Welcome to my personal website. Currently under construction.
