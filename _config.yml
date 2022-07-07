@@ -86,8 +86,8 @@ author:
   location         : "Ankara, Turkey"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : faslan@ee.bilkent.edu.tr
+  googlescholar    : https://scholar.google.com/citations?user=IcrIWXAAAAAJ&hl=en # "http://yourfullgooglescholarurl.com"
+  email            : fatihaslan30@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/fatih-aslan-b365a5a0/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-0209-5993"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
