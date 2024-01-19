@@ -3,20 +3,20 @@ main:
   - title: Publications
     url: /publications/
 
-  - title:
-    url: /talks/    
+  # - title:
+  #   url: /talks/    
 
-  - title:
-    url: /teaching/    
+  # - title:
+  #   url: /teaching/    
     
-  - title:
-    url: /portfolio/
+  # - title:
+  #   url: /portfolio/
         
-  - title:
-    url: /year-archive/
+  # - title:
+  #   url: /year-archive/
     
-  - title:
-    url: /cv/
+  # - title:
+  #   url: /cv/
     
-  - title:
-    url: /markdown/
+  # - title:
+  #   url: /markdown/
