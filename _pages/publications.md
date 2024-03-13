@@ -10,7 +10,11 @@ You can also find my papers on <a href="https://scholar.google.com/citations?use
 
 
 {% include base_path %}
-
+<ol>
 {% for post in site.publications reversed %}
+<li>
   {% include archive-single.html %}
+  <hr>
+</li>
 {% endfor %}
+</ol>
