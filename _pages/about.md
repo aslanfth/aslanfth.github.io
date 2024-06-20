@@ -19,6 +19,36 @@ During my masters, I was employed by Turk Telekom as part of [5G and Beyond Join
 
 <a class="twitter-timeline" href="https://twitter.com/fat1haslan?ref_src=twsrc%5Etfw">Tweets by fat1haslan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Page</title>
+    <style>
+        body {
+            display: flex;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .content {
+            flex: 1;
+            padding: 20px;
+        }
+        .twitter-feed {
+            width: 300px; /* Fixed width for the Twitter feed */
+            padding: 20px;
+        }
+        a {
+            color: #1DA1F2;
+            text-decoration: none;
+        }
+        h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
 <div class="content">
         <h2>About</h2>
         <p>I am a PhD candidate in <a href="https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/networked-systems">Networked Systems Group</a>, EEMCS, TU Delft. My research area consists of optimization of mobile networks. I work mainly on fairness of beyond 5G networks under the supervision of <a href="https://www.futurenetworkslab.net/">Prof. George Iosifidis</a>. My PhD is funded by <a href="https://cordis.europa.eu/project/id/101017109">DAEMON</a> and <a href="https://sns-origami.eu/">ORIGAMI</a>.</p>
@@ -30,3 +60,4 @@ During my masters, I was employed by Turk Telekom as part of [5G and Beyond Join
         <a class="twitter-timeline" href="https://twitter.com/fat1haslan?ref_src=twsrc%5Etfw">Tweets by fat1haslan</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+</body>
